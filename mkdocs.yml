@@ -1,0 +1,22 @@
+site_name: LLM teaching
+
+theme:
+  name: 'material'
+  palette:
+    primary: 'green'
+    accent: 'light green'
+  features:
+    - navigation.instant
+    - navigation.sections
+    - toc.integrate
+    - navigation.right
+    - search.suggest
+    - search.highlight
+    - content.code.annotation
+    - content.code.copy
+    - content.tabs
+
+extra:
+  generator: false
+
+copyright: Copyright &copy; 2024 Vidar Skogvoll
