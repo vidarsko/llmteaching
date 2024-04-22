@@ -1,27 +1,28 @@
-# Principles of prompt engineering
+# Prinsipper for utforming av ledetekst
 
-Prompt engineering can be summarized in the acronym CRESTO.
+Prompt-teknikk kan oppsummeres i akronymet KAFERO.
 
-!!! info "Context"
+!!! info "Kontekst"
 
-    One of the most important things when using a language model is to provide it with sufficient context.
+    En av de viktigste tingene når man bruker en språkmodell er å gi den tilstrekkelig kontekst.
 
-!!! bug "Role"
+!!! tip "Avgrensning"
 
-    Give yourself and/or it a clear role. "I am very bad at programming, explain it to me in a simple way" or "You are an extremely skilled educator."
+    Fortell språkmodellen hvilket felt du er i og hva den skal holde seg til. Hvis du vet omtrent hvor løsningen på problemet ditt ligger, informer den om dette.
 
-!!! example "Examples"  
+!!! abstract "Format"
 
-    Provide examples of how you want the answer, or what kind of ideas you want it to come up with.
+    Fortell språkmodellen hvordan du ønsker svaret ditt: som en punktliste? Tabell? Dikt?
 
-!!! tip "Scope" 
+!!! example "Eksempler"
 
-    Tell the language model what field you are in and what it should stick to. If you know approximately where the solution to your problem lies, inform it of this.
+    Gi eksempler på hvordan du ønsker svaret, eller hvilken type ideer du ønsker at den skal komme opp med.
 
-!!! question "Task"
+!!! bug "Rolle"
 
-    Most importantly, give it a precise task.
+    Gi deg selv og/eller den en klar rolle. "Jeg er veldig dårlig i programmering, forklar det til meg på en enkel måte" eller "Du er en ekstremt dyktig pedagog."
 
-!!! abstract "Output format"
+!!! question "Oppgave"
 
-    Tell the language model how you want your answer: as a bullet list? Table? Poem?
+    Viktigst av alt, gi den en presis oppgave.
+
