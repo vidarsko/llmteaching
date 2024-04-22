@@ -1,4 +1,5 @@
 site_name: LLM teaching
+site_url: llmteaching.com
 
 theme:
   name: 'material'
