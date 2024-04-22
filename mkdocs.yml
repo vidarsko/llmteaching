@@ -21,8 +21,22 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  
+plugins:
+  - i18n:
+      docs_structure: suffix
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: nb
+          name: Norsk
+          build: true
+
 
 extra:
   generator: false
+
 
 copyright: Copyright &copy; 2024 Vidar Skogvoll
