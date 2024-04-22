@@ -16,6 +16,11 @@ theme:
     - content.code.copy
     - content.tabs
 
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
 extra:
   generator: false
 
