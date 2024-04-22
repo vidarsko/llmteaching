@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://llmteaching.com/home/</loc>
+        <lastmod>2024-04-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://llmteaching.com/home/"/>
+        <xhtml:link rel="alternate" hreflang="nb" href="https://llmteaching.com/nb/home/"/>
+    </url>
+    <url>
+        <loc>https://llmteaching.com/learning_outcomes/</loc>
+        <lastmod>2024-04-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://llmteaching.com/learning_outcomes/"/>
+        <xhtml:link rel="alternate" hreflang="nb" href="https://llmteaching.com/nb/learning_outcomes/"/>
+    </url>
+    <url>
+        <loc>https://llmteaching.com/prompt_engineering/</loc>
+        <lastmod>2024-04-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://llmteaching.com/prompt_engineering/"/>
+        <xhtml:link rel="alternate" hreflang="nb" href="https://llmteaching.com/nb/prompt_engineering/"/>
+    </url>
+    <url>
+        <loc>https://llmteaching.com/suggestions_for_activities/</loc>
+        <lastmod>2024-04-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://llmteaching.com/suggestions_for_activities/"/>
+        <xhtml:link rel="alternate" hreflang="nb" href="https://llmteaching.com/nb/suggestions_for_activities/"/>
+    </url>
+    <url>
+        <loc>https://llmteaching.com/tips/</loc>
+        <lastmod>2024-04-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://llmteaching.com/tips/"/>
+        <xhtml:link rel="alternate" hreflang="nb" href="https://llmteaching.com/nb/tips/"/>
+    </url>
+    <url>
+        <loc>https://llmteaching.com/nb/home/</loc>
+        <lastmod>2024-04-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="nb" href="https://llmteaching.com/nb/home/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://llmteaching.com/home/"/>
+    </url>
+    <url>
+        <loc>https://llmteaching.com/nb/learning_outcomes/</loc>
+        <lastmod>2024-04-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="nb" href="https://llmteaching.com/nb/learning_outcomes/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://llmteaching.com/learning_outcomes/"/>
+    </url>
+    <url>
+        <loc>https://llmteaching.com/nb/prompt_engineering/</loc>
+        <lastmod>2024-04-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="nb" href="https://llmteaching.com/nb/prompt_engineering/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://llmteaching.com/prompt_engineering/"/>
+    </url>
+    <url>
+        <loc>https://llmteaching.com/nb/suggestions_for_activities/</loc>
+        <lastmod>2024-04-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="nb" href="https://llmteaching.com/nb/suggestions_for_activities/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://llmteaching.com/suggestions_for_activities/"/>
+    </url>
+    <url>
+        <loc>https://llmteaching.com/nb/tips/</loc>
+        <lastmod>2024-04-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="nb" href="https://llmteaching.com/nb/tips/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://llmteaching.com/tips/"/>
+    </url>
+</urlset>
