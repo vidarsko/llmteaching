@@ -1,20 +1,23 @@
-name: Build MkDocs Site
-
+name: ci 
 on:
   push:
     branches:
-      - main  # Change this to your main branch name noew
-
+      - master 
+      - main
+permissions:
+  contents: write
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
-
-    - name: Install dependencies
-      run: pip install mkdocs-material  # Install MkDocs and Material theme
-
-    - name: Build MkDocs site
-      run: mkdocs build
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
+      - uses: actions/cache@v2
+        with:
+          key: ${{ github.ref }}
+          path: .cache
+      - run: pip install mkdocs-material
+      - run: pip install pillow cairosvg
+      - run: mkdocs gh-deploy --force
