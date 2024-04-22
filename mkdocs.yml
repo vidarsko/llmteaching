@@ -1,5 +1,5 @@
 site_name: LLM teaching
-site_url: http://llmteaching.com
+site_url: https://vidarsko.github.io/llmteaching/
 
 theme:
   name: 'material'
@@ -33,13 +33,9 @@ plugins:
           default: true
           name: English
           build: true
-          site_name: "LLM Teaching (English)"
-          site_url: "http://llmteaching.com"
         - locale: nb
           name: Norsk
           build: true
-          site_name: "LLM Teaching (Norsk)"
-          site_url: "http://llmteaching.com"
 
 
 extra:
