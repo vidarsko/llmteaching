@@ -1,4 +1,4 @@
-site_name: LLM teaching
+site_name: Learning, teaching and doing research with large language models
 site_url: https://llmteaching.com
 
 theme:
@@ -11,11 +11,25 @@ theme:
     - navigation.sections
     - toc.integrate
     - navigation.right
+    - navigation.tabs
     - search.suggest
     - search.highlight
     - content.code.annotation
     - content.code.copy
     - content.tabs
+
+nav:
+  - Overview: 
+    - "Home": index.md
+    - "About LLMs": llms.md
+    - "Prompt engineering": prompt_engineering.md
+    - "Ethics": ethics.md
+  - Learners: 
+    - "Home": learners/index.md
+  - Teachers: 
+    - "Home": 'teachers/index.md'
+    - "Competencies": teachers/competencies.md
+  - Researchers: researchers/index.md
 
 markdown_extensions:
   - admonition
@@ -45,5 +59,14 @@ plugins:
         - locale: nb
           name: Norsk
           build: true
+          nav_translations:
+            Home: Hjem
+            "About LLMs": Om språkmodeller
+            "Prompt engineering": Utforming av ledetekster
+            Overview: Oversikt
+            Learners: Lærende
+            Teachers: Lærere
+            Researchers: Forskere
+            Ethics: Etikk
 
 copyright: Copyright &copy; 2024 Vidar Skogvoll
