@@ -17,6 +17,14 @@ theme:
     - content.code.annotation
     - content.code.copy
     - content.tabs
+  icon:
+    tag:
+      context: fontawesome/brands/html5
+      role: fontawesome/brands/js
+      example:  fontawesome/brands/css3
+      scope:  fontawesome/brands/css3
+      task:  fontawesome/brands/css3
+      format:  fontawesome/brands/css3
 
 nav:
   - Overview: 
@@ -29,6 +37,7 @@ nav:
   - Teachers: 
     - "Home": 'teachers/index.md'
     - "Competencies": teachers/competencies.md
+    - "Activities": teachers/activities.md
   - Researchers: researchers/index.md
 
 markdown_extensions:
@@ -43,9 +52,18 @@ markdown_extensions:
 
 extra:
   generator: false
+  tags:
+    Context: context
+    Role: role
+    Examples: examples
+    Scope: scope
+    Task: task
+    "Output Format": format
 
 plugins:
   - search
+  - tags:
+      tags_file: teachers/activities.md
   - i18n:
       docs_structure: suffix
       fallback_to_default: true
@@ -67,6 +85,6 @@ plugins:
             Learners: Lærende
             Teachers: Lærere
             Researchers: Forskere
-            Ethics: Etikk
+            Activities: Aktiviteter
 
 copyright: Copyright &copy; 2024 Vidar Skogvoll

@@ -1,0 +1,3 @@
+# Lab report writing 
+
+Students may not find writing lab reports the most exciting activity, perhaps, but with language models, you have the opportunity for your students to receive rough feedback from the robot first. Ask students to paste their response into the language model, along with your criteria for how you want the report to be (context). If students submit reports with obvious deficiencies, send it back immediately and ask them to get such feedback from the language model before you give your feedback. Of course, we should not stop giving personal feedback, but perhaps we are on our way into a time where we no longer need to constantly remind students to include figure captions and equipment lists.

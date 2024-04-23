@@ -1,0 +1,3 @@
+# Skriving av laboratorierapport 
+
+Studenter synes kanskje ikke det er den mest spennende aktiviteten å skrive laboratorierapporter, men med språkmodeller har du muligheten til at studentene dine først kan få grov tilbakemelding fra roboten. Be studentene om å lime inn svaret sitt i språkmodellen, sammen med kriteriene dine for hvordan du vil at rapporten skal være (kontekst). Hvis studentene leverer rapporter med åpenbare mangler, send dem tilbake umiddelbart og be dem om å få slik tilbakemelding fra språkmodellen før du gir din tilbakemelding. Selvfølgelig bør vi ikke slutte å gi personlig tilbakemelding, men kanskje vi er på vei inn i en tid der vi ikke lenger trenger å stadig minne studenter på å inkludere bildetekster og utstyrslist
