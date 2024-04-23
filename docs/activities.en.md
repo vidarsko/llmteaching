@@ -17,23 +17,32 @@ Choose some physics phenomena that may seem counterintuitive. For example: 'Newt
 
 ## Reading support
 
-Give the students a scientific article that is interesting (or let them find one themselves, if they are extra motivated). Copy the text content and paste it into a language model. Ask it to explain the article to you. Suggested prompt:
-Here is a physics article I found interesting:
-"""
-X
-"""
-I am a high-school physics student with only limited knowledge of physics. I would like you to explain this article to me in a pedagogical manner. I want you to answer my questions very briefly.
+Give the students a scientific article that is interesting (or let them find one themselves, if they are extra motivated). Copy the text content and paste it into a language model. Ask it to explain the article to you. 
+
+!!! quote "Prompt suggestion"
+    Here is a physics article I found interesting:
+
+    ```
+    [paste article]
+    ```
+
+    I am a high-school physics student with only limited knowledge of physics. I would like you to explain this article to me in a pedagogical manner. I want you to answer my questions very briefly.
+
 Notice how we have given the language model context, roles, and the format for how it should respond. The preference for brief answers is a personal choice
 
 
 ## Preparation for lab 
 
-Laboratory work is often very difficult because there are many skills that need to be trained simultaneously: understanding of physics, technical skills, reading instructions, and calculating uncertainty. Therefore, it can be useful to set aside 30 minutes before the lab to paste the lab instructions into the language model and then ask it questions. Here is a suggested prompt:
-I am supposed to do this laboratory experiment shortly. Here are the lab instructions:
-“””
-X
-“””
-I am a high school physics student with only limited knowledge of physics. I would like you to explain these lab instructions to me in a pedagogical manner. I want you to answer very briefly to my questions.
+Laboratory work is often very difficult because there are many skills that need to be trained simultaneously: understanding of physics, technical skills, reading instructions, and calculating uncertainty. Therefore, it can be useful to set aside 30 minutes before the lab to paste the lab instructions into the language model and then ask it questions.
+
+!!! quote "Prompt suggestion"
+    I am supposed to do this laboratory experiment shortly. Here are the lab instructions:
+
+    ```
+    [paster lab instructions]
+    ```
+
+    I am a high school physics student with only limited knowledge of physics. I would like you to explain these lab instructions to me in a pedagogical manner. I want you to answer very briefly to my questions.
 
 ## Lab report writing 
 
