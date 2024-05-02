@@ -32,7 +32,7 @@ nav:
     - "About LLMs": llms.md
     - "Prompt engineering": prompt_engineering.md
     - "Ethics": ethics.md
-    - "Use cases"Ø usecases.md
+    - "Use cases": usecases.md
   - Learners: 
     - "Home": learners/index.md
   - Teachers: 
