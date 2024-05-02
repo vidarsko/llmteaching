@@ -1,2 +1,2 @@
-#Etikk og språkmodeller
+# Etikk og språkmodeller
 

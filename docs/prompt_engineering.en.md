@@ -25,3 +25,4 @@ Prompt engineering can be summarized in the acronym CRESTO.
 !!! abstract "Output format"
 
     Tell the language model how you want your answer: as a bullet list? Table? Poem?
+

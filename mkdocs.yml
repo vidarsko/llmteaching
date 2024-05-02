@@ -32,6 +32,7 @@ nav:
     - "About LLMs": llms.md
     - "Prompt engineering": prompt_engineering.md
     - "Ethics": ethics.md
+    - "Use cases"Ø usecases.md
   - Learners: 
     - "Home": learners/index.md
   - Teachers: 
@@ -86,5 +87,6 @@ plugins:
             Teachers: Lærere
             Researchers: Forskere
             Activities: Aktiviteter
+            "Use cases": Bruksområder
 
 copyright: Copyright &copy; 2024 Vidar Skogvoll
