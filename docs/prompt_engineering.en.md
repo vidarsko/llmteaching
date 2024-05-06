@@ -4,7 +4,7 @@ Since the introduction of Google, most of us have developed a sense in how to wr
 Perhaps even more with language models, it is important to provide them with the right context and information to get the best results.
 Having existed for a few years, some general guidelines are starting to emerge on how to write effective prompts for language models, and we have summarized them in the acronym CRESTO.
 
-In explaining the pricinples of prompt engineering, we will make repeated reference to the analogy of the language model as the ship navigating in the sea that is meaning space, see the [site about LLMs](/llms.md) for more information.
+In explaining the pricinples of prompt engineering, we will make repeated reference to the analogy of the language model as the ship navigating in the sea that is meaning space, see the [site about LLMs](/llms) for more information.
 
 ??? info "Context"
 
