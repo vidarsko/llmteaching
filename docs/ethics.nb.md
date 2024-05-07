@@ -1,2 +1,0 @@
-# Etikk og språkmodeller
-

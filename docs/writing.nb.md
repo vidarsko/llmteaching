@@ -1,1 +1,0 @@
-# Skriving med spr[kmodeller]

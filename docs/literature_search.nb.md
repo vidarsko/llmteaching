@@ -1,3 +1,0 @@
-# Litteratursøk med språkmodeller 
-
-Her. 
