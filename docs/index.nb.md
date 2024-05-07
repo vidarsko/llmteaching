@@ -33,12 +33,12 @@ Det er en samling av ressurser, verktøy og veiledninger som kan hjelpe deg i ga
     <p style="color: var(--md-default-fg-color)"> Lær prinsippene for utforming av ledetekster.. </p>
 </a>
 <a href="/nb/use_cases" class="card" style="min-width: 160px; flex: 0 1 calc(20.00% - 10px); margin: 5px;">
-    <div> <strong> Anvendelser </strong></div>
+    <div> <strong> Bruksområder </strong></div>
     <hr>
     <p>
     <img src="/../img/use_cases.png">
     </p>
-    <p style="color: var(--md-default-fg-color)"> Lær om noen spesielt godt egnete anvendelser for SSM. </p>
+    <p style="color: var(--md-default-fg-color)"> Lær om noen spesielt godt egnete bruksområder for SSM. </p>
 </a>
 <a href="/nb/resources" class="card" style="min-width: 160px; flex: 0 1 calc(20.00% - 10px); margin: 5px;">
     <div> <strong> Andre ressurser </strong></div>
