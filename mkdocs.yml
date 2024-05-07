@@ -73,5 +73,28 @@ plugins:
   - search
   - tags:
       tags_file: activities.md
+  - i18n:
+      docs_structure: suffix
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: nb
+          name: Norsk
+          build: true
+          nav_translations:
+            Home: Hjem
+            "About LLMs": Om språkmodeller
+            "Prompt engineering": Utforming av ledetekster
+            Overview: Oversikt
+            Learners: Lærende
+            Teachers: Lærere
+            Researchers: Forskere
+            Activities: Aktiviteter
+            "Use cases": Bruksområder
 
 copyright: Copyright &copy; 2024 Vidar Skogvoll
