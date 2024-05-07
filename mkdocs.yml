@@ -1,17 +1,24 @@
-site_name: Learning, teaching and doing research with large language models
+site_name: LLM teaching
 site_url: https://llmteaching.com
 
 theme:
   name: 'material'
   palette:
-    primary: 'green'
-    accent: 'light green'
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
+      primary: teal
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode    
+      primary: teal
   features:
     - navigation.instant
     - navigation.sections
     - toc.integrate
     - navigation.right
-    - navigation.tabs
     - search.suggest
     - search.highlight
     - content.code.annotation
@@ -27,19 +34,20 @@ theme:
       format:  fontawesome/brands/css3
 
 nav:
-  - Overview: 
-    - "Home": index.md
+  - "Home": index.md
+  - Learners:
     - "About LLMs": llms.md
-    - "Prompt engineering": prompt_engineering.md
     - "Ethics": ethics.md
+    - "Prompt engineering": prompt_engineering.md
     - "Use cases": usecases.md
-  - Learners: 
-    - "Home": learners/index.md
-  - Teachers: 
-    - "Home": 'teachers/index.md'
-    - "Competencies": teachers/competencies.md
-    - "Activities": teachers/activities.md
-  - Researchers: researchers/index.md
+    - "Other resources": resources.md
+  - Teachers:
+    - "Competencies": competencies.md
+    - "Activities": activities.md
+  - Researchers:
+    - "Writing": writing.md
+    - "Literature search": literature_search.md
+    
 
 markdown_extensions:
   - admonition
@@ -64,7 +72,7 @@ extra:
 plugins:
   - search
   - tags:
-      tags_file: teachers/activities.md
+      tags_file: activities.md
   - i18n:
       docs_structure: suffix
       fallback_to_default: true
