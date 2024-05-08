@@ -19,3 +19,15 @@ With the ship metaphor in mind, we can deduce several implications.
 * The training of an LLM them amounts to tuning the currents of the meaning space.
 * Large language models might generate rubbish. Meaning space is not truth space, and so by looking at the output of a large language model, we can't be sure that it is true. The meaning of training is to determine the currents of meaning space, but the ship can still be lost at sea.
 * Large language models can be steered. By providing a prompt, we can guide the ship in a certain direction. This is the basis of fine-tuning.
+
+## Training
+
+There are several ways in which one might train a large language model to achieve a specific goal.
+
+### Supervised fine-tuning
+
+### Direct preference optimization
+
+### Retrieval Augmented Generation
+
+Retrieval augmented generation is a quickly showing to be one of the most promising ways of using LLMs.

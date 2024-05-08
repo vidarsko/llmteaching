@@ -2,15 +2,18 @@
 
 Since the introduction of Google, most of us have developed a sense in how to write effective search queries. 
 Perhaps even more with language models, it is important to provide them with the right context and information to get the best results.
-Having existed for a few years, some general guidelines are starting to emerge on how to write effective prompts for language models, and we have summarized them in the acronym CRESTO.
 
 In explaining the pricinples of prompt engineering, we will make repeated reference to the analogy of the language model as the ship navigating in the sea that is meaning space, see the [site about LLMs here](/llms) for more information.
+
+There are many extensive guides and courses to master prompt engineering out there, see the [resources page](/resources) for more information, but we have summarized the most important principles in the acronym "CRESTO".
 
 ??? info "Context"
 
     Providing language models with context is one of the most generally applicable principles to leverage the power effectively. 
 
     Providing a context amounts to placing the ship in the right waters. 
+
+    A particularly useful application of this, is to create a collection of snippets, ready to be used with the LLM. 
 
 ??? bug "Role"
 

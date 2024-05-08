@@ -46,7 +46,7 @@ Looking to learn more about LLMs? Check out the following resources:
     <p>
     <img src="img/resources.png">
     </p>
-    <p style="color: var(--md-default-fg-color)"> External resources for prompt learning about LLMs and generative AI. </p>
+    <p style="color: var(--md-default-fg-color)"> External resources for prompt engineering, literature, learning about LLMs and generative AI. </p>
 </a>
 </div>
 

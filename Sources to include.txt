@@ -1,8 +1,0 @@
-https://www.prompthub.us/blog/prompt-engineering-principles-for-2024#:~:text=The%20principles%20are%20broken%20down,Concise%20and%20clear
-
-https://learnprompting.org/
-
-
-https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/
-
-https://www.promptingguide.ai/
