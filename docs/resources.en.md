@@ -13,7 +13,7 @@
     The documentation (as of 2024-05-08) is freely available and contains a lot of good information on prompt engineering.
 
 !!! abstract "Prompting guide ([https://www.promptingguide.ai/](https://www.promptingguide.ai/))"
-    This is a thorough introduction to the science of prompt engineering. 
+    This is a thorough introduction to the science of prompt engineering.
 
 ### Other internet resources
 
