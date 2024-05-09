@@ -21,6 +21,9 @@
     The World's Most Dangerous Writing App is a web-based writing tool that will delete your text if you stop writing for more than 5 seconds. This can be a great way to force yourself to write, and to get your thoughts down on "paper".
     It is particularly well-suited for use in combination with LLMs, as you can write a text and then ask the LLM to improve it.
 
+!!! abstract "_keybr_ [https://www.keybr.com/](https://www.keybr.com/)"
+    Keybr is a typing tutor that can help you improve your typing speed and accuracy. This can be useful when working with LLMs, as you will often need to type a lot of text to get the best results.
+
 ## Literature
 
 ### Books
