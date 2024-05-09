@@ -1,6 +1,8 @@
 # Resources 
 
-## Internet resources for learning prompt engineering 
+## Internet resources 
+
+### Learning prompt engineering 
 
 !!! abstract "Prompt hub blog ([https://www.prompthub.us/blog](https://www.prompthub.us/blog))"
     This blog is a good starting point for learning about prompt engineering. It contains a lot of information about how to use prompts to improve the performance of large language models (LLMs).
@@ -12,6 +14,12 @@
 
 !!! abstract "Prompting guide ([https://www.promptingguide.ai/](https://www.promptingguide.ai/))"
     This is a thorough introduction to the science of prompt engineering. 
+
+### Other internet resources
+
+!!! abstract "_The World's Most Dangerous Writing App_ [https://www.squibler.io/dangerous-writing-prompt-app/](https://www.squibler.io/dangerous-writing-prompt-app/)"
+    The World's Most Dangerous Writing App is a web-based writing tool that will delete your text if you stop writing for more than 5 seconds. This can be a great way to force yourself to write, and to get your thoughts down on "paper".
+    It is particularly well-suited for use in combination with LLMs, as you can write a text and then ask the LLM to improve it.
 
 ## Literature
 
