@@ -39,7 +39,7 @@ nav:
     - "About LLMs": llms.md
     - "Ethics": ethics.md
     - "Prompt engineering": prompt_engineering.md
-    - "Use cases": usecases.md
+    - "Use cases": use_cases.md
     - "Other resources": resources.md
   - Teachers:
     - "Competencies": competencies.md
