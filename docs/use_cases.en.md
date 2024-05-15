@@ -25,3 +25,6 @@ Or in coding, if you are looking for code to solve a specific problem, it may be
 ## Change data formats
 
 LLMs can be used to convert data from one format to another.
+
+## Personal notebook
+
