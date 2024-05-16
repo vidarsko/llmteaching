@@ -39,3 +39,5 @@ If you need to read a lot of text (like law data) and you are only looking for a
 ## Other fun resources
 
 Hugging face qr code generator 
+
+
