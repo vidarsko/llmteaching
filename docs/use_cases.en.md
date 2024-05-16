@@ -28,3 +28,14 @@ LLMs can be used to convert data from one format to another.
 
 ## Personal notebook
 
+There are some services that allow AI to search in your notes for you. Perplexity and notion. 
+
+
+## Reading large amounts of text for you
+
+If you need to read a lot of text (like law data) and you are only looking for a certain specific piece of information, you can use LLMs to read the text for you and extract the information you need.
+
+
+## Other fun resources
+
+Hugging face qr code generator 
