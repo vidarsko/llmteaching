@@ -1,48 +1,109 @@
-# Competancies, learning outcomes and levels of achievements
+# Competancies, Intendend learning outcomes (ILOs) and levels of achievements
 
 Here are some of the learning objectives suitable for a course in LLMs.
-The learning outcomes descibe what a student should be able to do after completing a course in using LLMs.
+The ILOs descibe what a student should be able to do after completing a course in using LLMs.
 
-## C1: Explaining the technology
+## ILOs related to understanding LLMs
 
-* Learning outcome: Explain and distinguish between the concepts of artificial intelligence, language models, neural networks, and training data, and discuss how training data can lead to biases in the responses given by language models.
+### A1: Technical knowledge of how LLMs work
 
-| Low achievement | Medium achievement | High achievement |
-|-----------------|--------------------|------------------|
-| The student explains what AI is in a simple way.| The student explains the difference between AI and language models and can contextualize the concepts of neural networks and training data.| The student precisely explains the concepts of AI, language model, neural networks, and training data, and independently discusses how different training data can introduce bias in responses.|
+| ILO | Explain and distinguish between the concepts of artificial intelligence, language models, neural networks, and training data, and discuss how training data can lead to biases in the responses given by language models. |
+|---|---|
+| Low achievement | The student can explain what AI is in a simple way. |
+| Medium achievement | The student can explain the difference between AI and language models and can contextualize the concepts of neural networks and training data. |
+| High achievement | The student can precisely explain the concepts of AI, language model, neural networks, and training data. |
 
+### A2: Understanding of data and privacy issues
 
-## C2: Distinguishing between productive and unproductive use of language models
+| ILO | Find out where data is stored and how it is used by the language model, and discuss the privacy implications of using large language models. |
+|---|---|
+| Low achievement | The student is able to find out where data is stored. |
+| Medium achievement | The student is able to find out where data is stored and how it is used by the language model. They discuss some implications of that. |
+| High achievement | The student is able to find out where data is stored, how it is used by the language model, and discuss the privacy implications. |
 
-* Learning outcome: Discuss the difference between productive vs. unproductive applications of LLMs.
+### A3: Understanding of environmental impact of LLMs
 
-| Low achievement | Medium achievement | High achievement |
-|-----------------|--------------------|------------------|
-| The student expresses opinions on what is productive use of generative AI, but without justification. | The student distinguishes between productive and unproductive use of generative AI, with relevant examples. | The student defines precisely what distinguishes productive vs. unproductive use of generative AI, with relevant examples, and assesses the consequences of unproductive use. |
+| ILO | Discuss the environmental impact of training and using large language models. |
+|---|---|
+| Low achievement | The student expresses some notions of how training large language models affects the environnement. (To be refined). |
+| Medium achievement | The student discusses how training large language models affects the environment. (To be refined). |
+| High achievement | The student discusses how training and using large language models affects the environment, and can evaluate the impact. (To be refined). |
 
-## C3: Using generative AI efficiently
+### A4: Understanding biases in LLMs
 
-* Learning outcome: Write effective prompts that include, if necessary, assigning a role to the language model, providing relevant context, examples, and a specific task.
+| ILO | Discuss how biases can arise in language models and how they can impact society. |
+|---|---|
+| Low achievement | The student can explain how biases can arise in language models. |
+| Medium achievement | The student can explain how biases can arise in language models and give examples of how they can impact society. |
+| High achievement | The student can explain how biases can arise in language models, give examples of how they can impact society, and discuss how to mitigate these biases. |
 
-| Low achievement | Medium achievement | High achievement |
-|-----------------|--------------------|------------------|
-| The student breaks complex tasks down to some degree and asks the language model to solve these. | The student provides the language model with context, examples, and specific tasks tailored to the topic. The student adjusts based on the responses from the language model and assigns new tasks accordingly. | The student assigns roles, context, and examples to the language model where relevant, and is able to formulate the task clearly and precisely. The student effectively adjusts these factors according to the responses from the language model. |
+### A5: Understanding intellectual property rights
 
-## C4: Evaluating the output from the language model
+| ILO | Discuss the intellectual property rights of the language model and the generated text. |
+|---|---|
+| Low achievement | The student can explain what intellectual property rights are. |
+| Medium achievement | The student can explain the intellectual property rights of the language model and the generated text. |
+| High achievement | The student can explain the intellectual property rights of the language model and the generated text, and discuss the implications of these rights. |
 
-* Learning outcome: Critically evaluate the response given by the language model by cross-checking with other sources.
+### A6: Understanding the broader societal impact of LLMs
 
-| Low achievement | Medium achievement | High achievement |
-|-----------------|--------------------|------------------|
-| The student simply accounts for why the response from the language model is not necessarily trustworthy. | The student accounts for cases in which one can trust the language model and cross-checks the answers with other sources. | The student evaluates the response given by the language model based on context, task, and purpose, and cross-checks the relevant parts of the answer with other sources. |
+| ILO | Discuss the broader societal impact of using large language models. |
+|---|---|
+| Low achievement | The student can explain some of the societal impacts of using large language models. |
+| Medium achievement | The student can explain some of the societal impacts, detailing how bad use can lead to negative consequences. |
+| High achievement | The student can explain the societal impacts of using large language models, detailing how bad use can lead to negative consequences, and discuss how to mitigate these consequences. Detailing notions of accessibility, inequality, transparency, accountability, misue potential, the role of media, and the role of the individual. |
 
-## Physics
+## ILOs related to using LLMs
 
-* Learning outcome: Use the language model to implement physical equations and verify the solution against known cases.
+### B1: Aligned use
 
-| Low achievement | Medium achievement | High achievement |
-|-----------------|--------------------|------------------|
-| The student formulates a physical problem to the language model and gets the code to run in, for example, Colab. | The student formulates a physical problem, gets the code to run, and compares the solution with known cases. | The student formulates a physical problem, gets the code to run, compares the solution with known cases, and discusses the limitations of the language model in solving physical problems. |
+| ILO | Verbalize the intended goal of their task and judge whether the use of LLMs is aligned with that goal. |
+|---|---|
+| Low achievement | The student expresses opinions on what is productive use of generative AI, but without justification. |
+| Medium achievement | The student distinguishes between productive and unproductive use of generative AI, with relevant examples. |
+| High achievement | The student defines precisely what distinguishes productive vs. unproductive use of generative AI, with relevant examples, and assesses the consequences of unproductive use. |
 
+### B2: Prompt engineering
 
-## Maths
+| ILO | Write effective prompts that include, if necessary, assigning a role to the language model, providing relevant context, examples, and a specific task. |
+|---|---|
+| Low achievement | The student breaks complex tasks down to some degree and asks the language model to solve these. |
+| Medium achievement | The student provides the language model with context, examples, and specific tasks tailored to the topic. The student adjusts based on the responses from the language model and assigns new tasks accordingly. |
+| High achievement | The student assigns roles, context, and examples to the language model where relevant, and is able to formulate the task clearly and precisely. The student effectively adjusts these factors according to the responses from the language model. |
+
+### B3: Evaluating the output from the language model
+
+| ILO | Critically evaluate the response given by the language model by cross-checking with other sources. |
+|---|---|
+| Low achievement | The student simply accounts for why the response from the language model is not necessarily trustworthy. |
+| Medium achievement | The student accounts for cases in which one can trust the language model and cross-checks the answers with other sources. |
+| High achievement | The student evaluates the response given by the language model based on context, task, and purpose, and cross-checks the relevant parts of the answer with other sources. |
+
+### B4: Engaging in a productive dialogue with the language model
+
+| ILO | Engage in a productive dialogue with the language model by asking follow-up questions, clarifying the task, and adjusting the prompt based on the response. |
+|---|---|
+| Low achievement | The student asks follow-up questions to the language model. |
+| Medium achievement | The student asks follow-up questions, clarifies the task, and adjusts the prompt based on the response. |
+| High achievement | The student asks follow-up questions, clarifies the task, adjusts the prompt based on the response, and evaluates the response given by the language model. |
+
+### B5: Knowing good use cases for LLMs
+
+| ILO | Identify and discuss good use cases for LLMs. |
+|---|---|
+| Low achievement | The student can name some use cases for LLMs. |
+| Medium achievement | The student can name and discuss some use cases for LLMs, and can explain why they are good use cases. |
+| High achievement | The student can identify, discuss, and evaluate use cases for LLMs, and can explain why they are good use cases. |
+
+## Subject specific ILOs
+
+### Ph1: Physics
+
+| ILO | Use the language model to implement physical equations and verify the solution against known cases. |
+|---|---|
+| Low achievement | The student formulates a physical problem to the language model and gets the code to run in, for example, Colab. |
+| Medium achievement | The student formulates a physical problem, gets the code to run, and compares the solution with known cases. |
+| High achievement | The student formulates a physical problem, gets the code to run, compares the solution with known cases, and discusses the limitations of the language model in solving physical problems. |
+
+### Maths
+
