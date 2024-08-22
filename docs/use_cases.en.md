@@ -36,6 +36,20 @@ There are some services that allow AI to search in your notes for you. Perplexit
 If you need to read a lot of text (like law data) and you are only looking for a certain specific piece of information, you can use LLMs to read the text for you and extract the information you need.
 
 
+## Language checker
+
+Make your own GPT prompt that can be used as a language checker. 
+Here is a template
+
+!!! note "Language checker template"
+    ```
+    You are given a text snippet, which may be in English or Norwegian. Your job is to provide feedback on the text snippet in the following format:
+    - Spelling mistakes: A bullet point list of the spelling mistakes in the text.
+    - Grammatical mistakes: A bullet point list of the grammatical errors in the text.
+    - Clarity: A bullet point list of possibly ambiguous or unclear sentences.
+    If there are no issues in a category, state "No issues found" and move on. Do NOT write the corrected text for me.
+    ```
+
 ## Other fun resources
 
 Hugging face qr code generator 
