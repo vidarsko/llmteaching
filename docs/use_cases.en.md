@@ -50,6 +50,23 @@ Here is a template
     If there are no issues in a category, state "No issues found" and move on. Do NOT write the corrected text for me.
     ```
 
+## Pre-screening hand-ins as a teacher
+
+Create a prompt that can be used to pre-screen hand-ins as a teacher.
+By writing a prompt that asks the model to check for different criteria, you may be able to have the studetns get their primary feedback from the model, and then you can focus on the more qualitative aspects of the hand-in.
+A suggestion for how such a prompt could look is given below.
+
+!!! note "Pre-screening hand-ins template"
+    ```
+    You are given a text snippet, which is a hand-in from a student. Your job is to provide feedback on the text snippet in the following format. For each point, provide a bullet point list of the issues you find in the text, and feedback on how the student can improve:
+    - Structure: The structure of the report should be according to the Imrad structure: Introduction, Method, Results, and Discussion.
+    - Length: The full report should not exceed 2000 words. Provide concrete suggestions on what to remove or condense if it is too long.
+    - References: The report should have at least 5 references in the APA format.
+    - Figure text: All figures should have a caption that explains what the figure shows and one sentence explaining its significance. 
+    - Spelling and grammar: The text should be free of spelling and grammatical errors.
+    - Clarity: The text should be clear.
+
+
 ## Other fun resources
 
 Hugging face qr code generator 
